@@ -116,5 +116,5 @@ region_rect = Rect2(0, 0, 1, 1)
 
 [node name="Hint" type="Label" parent="."]
 position = Vector2(24, 22)
-text = "A/D or ←/→: Move    Space/W: Jump    J/Shift: Dash"
+text = "Arrow Keys: Move/Aim/Climb    Z: Jump    X: Grab    C: Dash"
 theme_override_font_sizes/font_size = 22
